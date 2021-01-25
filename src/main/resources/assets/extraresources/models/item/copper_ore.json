@@ -1,0 +1,6 @@
+{
+	"parent": "extraresources:block/copper_ore",
+    "textures": {
+    	"layer0": "extraresources:items/copper_ore"   
+    }
+}

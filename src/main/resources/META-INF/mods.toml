@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="extraresources"
+version="0.1"
+displayName="Extra Resources"
+credits="FireBlastG"
+authors="FireBlastG"
+description='''
+Hello,
+
+This mod will add various different foods, mobs, biomes, plants, blocks and ores.
+
+It is focused on making your game more interesting and difficult.
+The extra mobs, biomes and foods will enhance the survival aspect of your game while the extra blocks and ores will encourage mining and combat!
+'''
+
+
+[[dependencies.extraresources]]
+	modId="forge"
+	mandatory=true
+	versionRange="[35,)"
+	ordering="NONE"
+	side="BOTH"
+	
+[[dependencies.extraresources]]
+	modId="minecraft"
+	mandatory=true
+	versionRange="[1.16.4,1.17)"
+	ordering="NONE"
+	side="BOTH"

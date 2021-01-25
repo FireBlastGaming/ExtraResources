@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "WXW",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:golden_carrot"
+    },
+    "X": {
+      "item": "minecraft:potion"
+    },
+    "W": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "extraresources:god_carrot",
+    "count": 1
+  }
+}
